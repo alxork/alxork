@@ -27,10 +27,9 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Android Studio]
 - 🖥 &nbsp;
-  ![Shotcut]
-  ![Excel]
+  ![Shotcut](https://img.shields.io/badge/-Shotcut-333333?style=flat&logo=shotcut)
+  ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=excel)
 
 <br/>
 
